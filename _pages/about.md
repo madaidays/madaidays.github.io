@@ -5,4 +5,4 @@ permalink: /about
 comments: false
 ---
 
-¡Bienvenidos a Juernes de mesa! Somos un grupo de jugadores que quedamos para jugar a todo tipo de juegos de mesa. 
+¡Bienvenidos a Mad AI Days! Somos un grupo de meetup que quedamos para formarnos en temas de IA.

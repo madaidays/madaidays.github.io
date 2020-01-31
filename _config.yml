@@ -13,14 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  juernesdemesa:
-    name: juernesdemesa
-    display_name: Juernes de mesa
-    avatar: "assets/images/blog/users/juernesdemesa.png"
-    email: juernesdemesa@gmail.com
-    web: https://www.juernesdemesa.com
-    twitter: https://twitter.com/juernesdemesa
-    description: "Grupo de juegos de mesa"
+  madaidays:
+    name: madaidays
+    display_name: Mad AI Days
+    avatar: "assets/images/blog//users/profile.png"
+    email: madaidays@gmail.com
+    web: https://www.madaidays.com
+    twitter: https://twitter.com/madaidays
+    description: "Grupo de Meetup de IA"
 
 # Plugins
 plugins:

@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "Presentación Mad AI Days"
-author: sal
+author: madaidays
 categories: [MadAiDays]
 image: assets/images/posts/2020-01-16-presentacion/header.png
 ---
 
-Hola, bienvenidxs a Mad AI Days 👩🏼‍💻👨🏼‍💻
+Hola, bienvenidos a Mad AI Days 👩🏼‍💻👨🏼‍💻
 
 Si te interesan temas como AI, Data, ML… ¡Este meetup es para ti! ¡Acércate y conócenos!
 
 ## ¿Quiénes somos?
 
-Somos un grupo de amigxs de distintas disciplinas con una cosa en común: nos dedicamos a la Inteligencia Artificial, ¡¡y nos encanta!! 🤓
+Somos un grupo de amigos de distintas disciplinas con una cosa en común: nos dedicamos a la Inteligencia Artificial, ¡¡y nos encanta!! 🤓
 
 A través de este Meetup, nos gustaría crear una comunidad donde todos podamos aprender unos de otros, compartir nuestros conocimientos, networking, experiencias, proyectos… Mientras nos lo pasamos muy bien (y sobre todo comemos pizza) 🤤.
 
