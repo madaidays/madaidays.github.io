@@ -36,7 +36,7 @@ Durante esta sesión trataremos los siguientes puntos:
 
 ## Requisitos
 
-La mejor forma de aprvechar este workshop es que vengas con tu ordenador y con ganas de programar. Necesitarás tener instalado:
+La mejor forma de aprvechar este workshop es que vengas con tu ordenador y con ganas de programar 🤓. Necesitarás tener instalado:
 
 - [Python](https://www.python.org/)
 - [Conda](https://docs.conda.io/en/latest/)
